@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="planetsInSolarSystem">
+        <item>@array/arrayMercury</item>
+        <item>@array/arrayVenus  </item>
+        <item>@array/arrayEarth  </item>
+        <item>@array/arrayMars   </item>
+        <item>@array/arrayJupiter</item>
+        <item>@array/arraySaturn </item>
+        <item>@array/arrayUranus </item>
+        <item>@array/arrayNeptune</item>
+    </array>
+
+    <array name="arrayMercury">
+        <item name="name">@string/name_mercury</item>
+        <item name="distance">@string/distance_mercury</item>
+    </array>
+
+    <array name="arrayVenus">
+        <item name="name">@string/name_venus</item>
+        <item name="distance">@string/distance_venus</item>
+    </array>
+
+    <array name="arrayEarth">
+        <item name="name">@string/name_earth</item>
+        <item name="distance">@string/distance_earth</item>
+    </array>
+
+    <array name="arrayMars">
+        <item name="name">@string/name_mars</item>
+        <item name="distance">@string/distance_mars</item>
+    </array>
+
+    <array name="arrayJupiter">
+        <item name="name">@string/name_jupiter</item>
+        <item name="distance">@string/distance_jupiter</item>
+    </array>
+
+    <array name="arraySaturn">
+        <item name="name">@string/name_saturn</item>
+        <item name="distance">@string/distance_saturn</item>
+    </array>
+
+    <array name="arrayUranus">
+        <item name="name">@string/name_uranus</item>
+        <item name="distance">@string/distance_uranus</item>
+    </array>
+
+    <array name="arrayNeptune">
+        <item name="name">@string/name_neptune</item>
+        <item name="distance">@string/distance_neptune</item>
+    </array>
+
+</resources>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SpinnerTwoWayDataBindingDemo</string>
+
+    <string name="name_mercury">Mercury</string>
+    <string name="name_venus"  >Venus  </string>
+    <string name="name_earth"  >Earth  </string>
+    <string name="name_mars"   >Mars   </string>
+    <string name="name_jupiter">Jupiter</string>
+    <string name="name_saturn" >Saturn </string>
+    <string name="name_uranus" >Uranus </string>
+    <string name="name_neptune">Neptune</string>
+
+    <string name="distance_mercury">0.4 </string>
+    <string name="distance_venus"  >0.7 </string>
+    <string name="distance_earth"  >1   </string>
+    <string name="distance_mars"   >1.5 </string>
+    <string name="distance_jupiter">5.2 </string>
+    <string name="distance_saturn" >9.5 </string>
+    <string name="distance_uranus" >19.2</string>
+    <string name="distance_neptune">30.1</string>
+
+    <string name="edit_text_hint">Enter a planet name of our solar system here (case insensitive)</string>
+    <string name="use_info">If select a planet from the spinner, the edit text view with show the selected planet name.
+        \n\nOn the other hand, if enter a planet name in the edit text view, then the corresponding spinner item will be automatically selected.</string>
+
+</resources>
